@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Complete project",
+        "description": "Finish the To-Do list project",
+        "category": "Work",
+        "completed": false
+    },
+    {
+        "title": "Buy groceries",
+        "description": "Need to buy eggs and milk",
+        "category": "Personal",
+        "completed": true
+    }
+]
